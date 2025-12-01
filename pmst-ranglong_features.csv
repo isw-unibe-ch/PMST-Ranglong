@@ -1,0 +1,10 @@
+value_id,label,feature,unimorph,language_id
+pl,plural,number,PL,ranglong
+sg,singular,number,SG,ranglong
+1,first person,person,1,ranglong
+2,second person,person,2,ranglong
+3,third person,person,3,ranglong
+aff,affirmative,polarity,POS,ranglong
+neg,negative,polarity,NEG,ranglong
+fut,future,tense_aspect,FUT,ranglong
+nfut,non-future,tense_aspect,,ranglong

@@ -1,0 +1,66 @@
+FUT.AFF,,,,,,,,,
+A/O,1SG,1PL,2SG,2PL,3SG,3PL,paradigm_tag,variants_tag,overabundance_tag
+1SG,,,k ee j + n a + Σ + r a ŋ,k ee j + n a + Σ + u + r a ŋ,k ee j + Σ + r a ŋ,k ee j + Σ + u + r a ŋ,default,,
+1SG,,,n a + Σ + k a + t i + ŋ,n a + Σ + u + k a + t i + ŋ,Σ + k a + t i + ŋ,Σ + u + k a + t i + ŋ,pragm_marked,,
+1SG,,,,k ee j + n a + Σ + r a ŋ,,k ee j + Σ + r a ŋ,default,,optional_plural
+1SG,,,,n a + Σ + k a + t i + ŋ,,Σ + k a + t i + ŋ,pragm_marked,,optional_plural
+1PL,,,n ee j + n a + Σ + r a ŋ,n ee j + n a + Σ + u + r a ŋ,n ee j + Σ + r a ŋ,n ee j + Σ + u + r a ŋ,default,,
+1PL,,,n a + Σ + i n + t i,n a + Σ + u + i n + t i,Σ + i n + t i,Σ + u + i n + t i,pragm_marked,,
+1PL,,,,n ee j + n a + Σ + r a ŋ,,n ee j + Σ + r a ŋ,default,,optional_plural
+1PL,,,,n a + Σ + i n + t i,,Σ + i n + t i,pragm_marked,,optional_plural
+2SG,n ee j + n a + Σ + r a ŋ,n ee j + n a + Σ + u + r a ŋ,,,n ee j + Σ + r a ŋ,n ee j + Σ + r a ŋ,default,,
+2SG,,,,,Σ + n a + t i,Σ + n a + t i,pragm_marked,,
+2PL,n ee j + n a + Σ + r a ŋ,n ee j + n a + Σ + r a ŋ,,,n ee j + n a + Σ + r a ŋ,n ee j + Σ + r a ŋ,default,,optional_plural
+2PL,n ee j + n a + Σ + u + r a ŋ,n ee j + n a + Σ + u + r a ŋ,,,n ee j + n a + Σ + u + r a ŋ,n ee j + Σ + u + r a ŋ,default,,
+2PL,n a + Σ + n a + t i,n a + Σ + n a + t i,,,n a + Σ + n a + t i,Σ + n a + t i,pragm_marked,,optional_plural
+2PL,n a + Σ + u + n a + t i,n a + Σ + u + n a + t i,,,n a + Σ + u + n a + t i,Σ + u + n a + t i,pragm_marked,,
+3SG,ee j + n a + Σ + r a ŋ,ee j + n a + Σ + u + r a ŋ,ee j + n a + Σ + r a ŋ,ee j + n a + Σ + u + r a ŋ,ee j + Σ + r a ŋ,ee j + Σ + u + r a ŋ,default,,
+3SG,n a + Σ + i n + t i,n a + Σ + u + i n + t i,n a + Σ + i n + t i,n a + Σ + u + i n + t i,Σ + i n + t i,Σ + u + i n + t i,pragm_marked,,
+3SG,,,,ee j + n a + Σ + r a ŋ,,,default,,optional_plural
+3SG,,,,n a + Σ + i n + t i,,Σ + i n + t i,pragm_marked,,optional_plural
+3PL,ee j + n a + Σ + r a ŋ,ee j + n a + Σ + r a ŋ,ee j + n a + Σ + r a ŋ,ee j + n a + Σ + r a ŋ,ee j + Σ + r a ŋ,ee j + Σ + r a ŋ,default,,optional_plural
+3PL,ee j + n a + Σ + u + r a ŋ,ee j + n a + Σ + u + r a ŋ,ee j + n a + Σ + u + r a ŋ,ee j + n a + Σ + u + r a ŋ,ee j + Σ + u + r a ŋ,ee j + Σ + u + r a ŋ,default,,
+3PL,n a + Σ + i n + t i,n a + Σ + i n + t i,n a + Σ + i n + t i,n a + Σ + i n + t i,Σ + i n + t i,Σ + i n + t i,pragm_marked,,optional_plural
+3PL,n a + Σ + u + i n + t i,n a + Σ + u + i n + t i,n a + Σ + u + i n + t i,n a + Σ + u + i n + t i,Σ + u + i n + t i,Σ + u + i n + t i,pragm_marked,,
+FUT.NEG,,,,,,,,,
+A/O,1SG,1PL,2SG,2PL,3SG,3PL,paradigm_tag,variants_tag,overabundance_tag
+1SG,,,n a + Σ + n o + n i + ŋ,n a + Σ + u + n o + m a + n i,Σ + n o + n i + ŋ,Σ + u + n o + n i + ŋ,default,,
+1SG,,,,n a + Σ + n o + m a + n i,,Σ + n o + n i + ŋ,default,,optional_plural
+1PL,,,n a + Σ + n o + m a + n i,n a + Σ + u + n o + m a + n i,Σ + n o + m a + n i,Σ + u + n o + m a + n i,default,,
+1PL,,,,n a + Σ + n o + m a + n i,,Σ + n o + m a + n i,default,,optional_plural
+2SG,n a + Σ + n o + t a + n i,n a + Σ + u + n o + t a + n i,,,Σ + n o + t a + n i,Σ + n o + t a + n i,default,,
+2PL,n a + Σ + n o + t a + n i,n a + Σ + n o + t a + n i,,,Σ + n o + t a + n i,Σ + n o + t a + n i,default,,optional_plural
+2PL,n a + Σ + u + n o + t a + n i,n a + Σ + u + n o + t a + n i,,,Σ + u + n o + t a + n i,Σ + u + n o + t a + n i,default,,
+3SG,n a + Σ + n o + n i,n a + Σ + u + n o + n i,n a + Σ + n o + n i,n a + Σ + u + n o + n i,Σ + n o + n i,Σ + u + n o + n i,default,,
+3SG,,,,n a + Σ + n o + n i,,Σ + n o + n i,default,,optional_plural
+3PL,n a + Σ + n o + n i,n a + Σ + n o + n i,n a + Σ + n o + n i,n a + Σ + n o + n i,Σ + n o + n i,Σ + n o + n i,default,,optional_plural
+3PL,n a + Σ + u + n o + n i,n a + Σ + u + n o + n i,n a + Σ + u + n o + n i,n a + Σ + u + n o + n i,Σ + u + n o + n i,Σ + u + n o + n i,default,,
+NFUT.AFF,,,,,,,,,
+A/O,1SG,1PL,2SG,2PL,3SG,3PL,paradigm_tag,variants_tag,overabundance_tag
+1SG,,,k a + n a + Σ,k a + n a + Σ + u,k a + Σ,k a + Σ + u,default,,
+1SG,,,,k a + n a + Σ,,k a + Σ,default,,optional_plural
+1PL,,,n a + n a + Σ,n a + n a + Σ + u,n a + Σ,n a + Σ + u,default,,
+1PL,,,,n a + n a + Σ,,n a + Σ,default,,optional_plural
+2SG,n a + n a + Σ,n a + n a + Σ + u,,,n a + Σ,n a + Σ,default,,
+2PL,n a + n a + Σ,n a + n a + Σ,,,n a + Σ,n a + Σ,default,,optional_plural
+2PL,n a + n a + Σ + u,n a + n a + Σ + u,,,n a + Σ + u,n a + Σ + u,default,,
+3SG,a + n a + Σ,a + n a + Σ + u,a + n a + Σ,a + n a + Σ + u,a + Σ,a + Σ + u,default,,
+3SG,,,,a + n a + Σ,,a + Σ,default,,optional_plural
+3PL,a + n a + Σ,a + n a + Σ,a + n a + Σ,a + n a + Σ,a + Σ,a + Σ,default,,optional_plural
+3PL,a + n a + Σ + u,a + n a + Σ + u,a + n a + Σ + u,a + n a + Σ + u,a + Σ + u,a + Σ + u,default,,
+NFUT.NEG,,,,,,,,,
+A/O,1SG,1PL,2SG,2PL,3SG,3PL,paradigm_tag,variants_tag,overabundance_tag
+1SG,,,n a + Σ + m a k + i ŋ,n a + Σ + u + m a k + i ŋ,Σ + m a k + i ŋ,Σ + u + m a k + i ŋ,default,dialect_var,
+1SG,,,n a + Σ + m a k + u ŋ,n a + Σ + u + m a k + u ŋ,Σ + m a k + u ŋ,Σ + u + m a k + u ŋ,default,,
+1SG,,,,n a + Σ + m a k + i ŋ,,Σ + m a k + i ŋ,default,dialect_var,optional_plural
+1SG,,,,n a + Σ + m a k + u ŋ,,Σ + m a k + u ŋ,default,,optional_plural
+1PL,,,n a + Σ + m a k + m e,n a + Σ + u + m a k + m e,Σ + m a k + m e,Σ + u + m a k + m e,default,,
+1PL,,,,n a + Σ + m a k + m e,,Σ + m a k + m e,default,,optional_plural
+2SG,n a + Σ + m a k + ts e,n a + Σ + u + m a k + ts e,,,Σ + m a k + ts e,Σ + u + m a k + ts e,default,,
+2SG,,,,,,Σ + m a k + ts e,default,,optional_plural
+2PL,Σ + m a k + ts e,n a + Σ + m a k + ts e,,,Σ + m a k + ts e,Σ + m a k + ts e,default,,optional_plural
+2PL,Σ + u + m a k + ts e,n a + Σ + u + m a k + ts e,,,Σ + u + m a k + ts e,Σ + u + m a k + ts e,default,,
+3SG,n a + Σ + m a k,n a + Σ + u + m a k,n a + Σ + m a k,n a + Σ + m a k,Σ + m a k,Σ + u + m a k,default,,
+3SG,,n a + Σ + m a k,,,,Σ + m a k,default,,optional_plural
+3PL,n a + Σ + m a k,n a + Σ + m a k,n a + Σ + m a k,n a + Σ + m a k,Σ + m a k,Σ + m a k,default,,optional_plural
+3PL,n a + Σ + u + m a k,n a + Σ + u + m a k,n a + Σ + u + m a k,n a + Σ + u + m a k,Σ + u + m a k,Σ + u + m a k,default,,
