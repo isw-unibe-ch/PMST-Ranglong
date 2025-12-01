@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
 # Person Marking in South-Central Trans-Himalayan: Ranglong
 
 This PARALEX set contains person markers in Ranglong, including inflected verbal forms and pronouns. It constitutes part of the PMST (Person Marking in South-Central Trans-Himalayan) database.
