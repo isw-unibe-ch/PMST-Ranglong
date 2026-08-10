@@ -9,10 +9,10 @@ Others who contributed to this document: Jessi Ranglong
 
 # Motivation
 
-**For what purpose was the dataset created?**
+**For what purpose was the data set created?**
 
 This data set was created to investigate the dynamics of person marking in Ranglong and other South-Central Trans-Himalayan languages.
-Further background and motivation can be found in X (JOHD paper).
+Further background and motivation can be found in Auderset et al. 2026. Full citation: Auderset, Sandra \& Brown, Hunter L. \& Reich, Jonathan \& Gerber, Pascal \& Zakaria, Muhammad \& Konnerth, Linda. 2026. A Database of Person Marking in South-Central Trans-Himalayan. Journal of Open Humanities Data 12(1), 58. (doi:https://doi.org/10.5334/johd.505).
 
 **Who created the data set (for example, which team, research group) and on behalf of which entity (for example, company, institution, organization)?**
 
@@ -22,10 +22,9 @@ The data set was created by a team of researchers at the Department of Linguisti
 
 This work is funded by SNSF (Swiss National Science Foundation) Grant 10000946 to Linda Konnerth at the University of Bern.
 
-
 # Composition
 
-This Paralex dataset documents paradigms of inflected verb forms as well as pronouns.
+This Paralex data set documents paradigms of inflected verb forms as well as pronouns.
 
 **Are forms given as orthographic, phonetic, and or phonemic sequences ?** 
 
@@ -43,73 +42,76 @@ For Ranglong, it is a version of the community orthography used by speakers.
 
 -   Number of inflected forms per paradigm and subparadigm:
 
-| **Paradigm** | **n** | **Tags**       | **n** |
-|--------------|------:|----------------|------:|
-| Pronouns     |     6 | default        |     6 |
-| NFUT.AFF     |    50 | default        |    34 |
-|              |       | opt.pl         |    16 |
-| NFUT.NEG     |    58 | default        |    39 |
-|              |       | opt.pl         |    19 |
-| FUT.AFF      |    91 | default        |    34 |
-|              |       | opt.pl         |    15 |
-|              |       | pragm.m        |    26 |
-|              |       | opt.pl+pragm.m |    16 |
-| FUT.NEG      |    50 | default        |    34 |
-|              |       | opt.pl         |    16 |
+|paradigm |paradigm_tag |variants_tag |overabundance_tag |  n|
+|:--------|:------------|:------------|:-----------------|--:|
+|pron     |             |unspecified  |                  |  6|
+|fut.aff  |rang_fut     |unspecified  |optional_plural   | 15|
+|fut.aff  |rang_fut     |unspecified  |                  | 34|
+|fut.aff  |ti_fut       |unspecified  |optional_plural   | 16|
+|fut.aff  |ti_fut       |unspecified  |                  | 26|
+|fut.neg  |             |unspecified  |optional_plural   | 16|
+|fut.neg  |             |unspecified  |                  | 34|
+|nfut.aff |             |unspecified  |optional_plural   | 16|
+|nfut.aff |             |unspecified  |                  | 34|
+|nfut.neg |             |dialect_var  |optional_plural   |  2|
+|nfut.neg |             |dialect_var  |                  |  5|
+|nfut.neg |             |unspecified  |optional_plural   | 17|
+|nfut.neg |             |unspecified  |                  | 34|
+
 
 
 **Language varieties**
 
 -   BCP-47 language tag: NA
 -   Glottocode: rang1271
--   Language variety description: Ranglong is considered to be a variety of the 'Halam' language for official purposes, but linguistically speaking it is a distinct language exhibiting low mutual intelligibility with other Halam varieties. The ISO639 code refers to 'Halam' and not to Ranglong specifically, which is why the Glottocode should be used for most purposes.
+-   Language variety description: Ranglong is a South Central Trans-Himalayan language spoken at the tri-state border area of Tripura, Assam, and Mizoram, India. It is considered to be a variety of the 'Halam' language for official purposes, but linguistically speaking it is a distinct language exhibiting low mutual intelligibility with other Halam varieties. The ISO639 code refers to 'Halam' and not to Ranglong specifically, which is why the Glottocode should be used for most purposes.
 
 **Does the data pertain to specific dialects, geographical locations, genre, etc ?**
 
 The data was collected in villages straddling the border of the Northeast Indian states of Tripura and Assam. It therefore exhibits characteristics of both known Ranglong varieties, which geographically align roughly with the two areas on either side of the state line.
 
-**Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** 
+**Does the data set contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** 
 
-The dataset contains all person forms found in the language, both verbal indexes and pronouns. Hortative forms were not included in the dataset (see below for explanation).
+The data set contains all person forms found in the language, both verbal indexes and pronouns, with the exception of hortative forms, which were not included in the data set.
 
 **Is any information missing from individual instances?** 
 
 There are two person scenarios in a particular future-affirmative paradigm that could not be elicited due to semantic restrictions. These are: 2SG>1SG.FUT.AFF and 2SG>1PL.FUT.AFF.
 
-**Are there any errors, sources of noise, or redundancies in the dataset?** 
+**Are there any errors, sources of noise, or redundancies in the data set?** 
 
 No.
 
-**Is the dataset self-contained, or does it link to or otherwise rely on external resources (for example, websites, tweets, other datasets)?** 
+**Is the data set self-contained, or does it link to or otherwise rely on external resources (for example, websites, tweets, other data sets)?** 
 
-The dataset is self-contained.
+The data set is self-contained.
 
-**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionaries), were there any complex decisions in the matching of entries from this dataset to those of the vocabularies (eg. inexact language code) ?**
+**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionaries), were there any complex decisions in the matching of entries from this data set to those of the vocabularies (eg. inexact language code) ?**
 NA
 
-**Does the dataset contain data that might be considered confidential (for example, data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?**
+**Does the data set contain data that might be considered confidential (for example, data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?**
 
-The dataset pertains to small or indigenous language communities, namely those of the Ranglong people in Tripura and Assam.
+The data set pertains to small or indigenous language communities, namely those of the Ranglong people in Tripura and Assam.
 The data are published here with the consent of the community.
 
 
 # Collection process.
 
-**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any ? Are any information derived from other datasets ?** 
+**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any ? Are any information derived from other data sets ?** 
 
 The data comes from fieldwork conducted by Hunter L. Brown. Specific forms were taken from a combination of a text corpus, elicitation, and field notes. This work also forms the basis for the segmentation. 
 
 **How were paradigms separated (eg. in the case of homonyms or variants)? What theoretical or practical choices were made?**
 
-Design principles and theoretical choices implemented for this data set are explained in "Paper in JOHD".
+Design principles and theoretical choices implemented for this data set are explained in Auderset et al. 2026.
 
 **How was the paradigm structure (set and labels of paradigm cells) decided? What theoretical or practical choices were made?**
 
-Design principles and theoretical choices implemented for this data set are explained in "Paper in JOHD".
+Design principles and theoretical choices implemented for this data set are explained in Auderset et al. 2026.
 
 **What is the expertise of the contributors with the documented language ?** 
 
-Hunter L. Brown: linguist specializing in South-Central Trans-Himalayan, and currently preparing a reference grammar of Ranglong
+Hunter L. Brown: linguist specializing in South-Central Trans-Himalayan, currently preparing a reference grammar of Ranglong
 
 Jessi Ranglong: native speaker and linguist
 
@@ -152,36 +154,36 @@ The data was prepared for Paralex with the open source software R using RStudio.
 
 # Uses
 
-**Has the dataset been used for any published work already?** 
+**Has the data set been used for any published work already?** 
 
 No.
 
-**What (other) tasks could the dataset be used for?**
+**What (other) tasks could the data set be used for?**
 
 It can be used for descriptive and comparative analyses.
 
-**Are there tasks for which the dataset should not be used?**
+**Are there tasks for which the data set should not be used?**
 
 No.
 
 
 # Distribution.
 
-**Will the dataset be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the dataset was created?**
+**Will the data set be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the data set was created?**
 
 No.
 
-**How will the dataset be distributed (for example, tarball on website, API, GitHub)?** 
+**How will the data set be distributed (for example, tarball on website, API, GitHub)?** 
 
-The dataset is available on GitHub at X and on Zenodo as part of the Paralex collection at X.
+The data set is available on GitHub at https://github.com/isw-unibe-ch and on Zenodo as part of the Paralex collection at https://doi.org/10.5281/zenodo.17881855.
 
-**Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** 
+**Will the data set be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** 
 
-The dataset is distributed under a CC-BY-SA 4.0 license.
+The data set is distributed under a CC-BY-SA 4.0 license.
 
 
 # Maintenance
 
-**If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?** 
+**If others want to extend/augment/build on/contribute to the data set, is there a mechanism for them to do so?** 
 
 For suggestions or error reports please open an issue on GitHub.

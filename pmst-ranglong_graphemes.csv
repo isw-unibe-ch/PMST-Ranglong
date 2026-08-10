@@ -1,4 +1,5 @@
 grapheme_id,language_id
+-,ranglong
 a,ranglong
 ch,ranglong
 e,ranglong
@@ -8,9 +9,12 @@ m,ranglong
 n,ranglong
 ng,ranglong
 o,ranglong
+oi,ranglong
 r,ranglong
 s,ranglong
 t,ranglong
 u,ranglong
 ē,ranglong
+ēi,ranglong
 Σ,ranglong
+ ,ranglong

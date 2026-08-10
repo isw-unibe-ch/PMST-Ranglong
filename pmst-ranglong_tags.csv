@@ -1,5 +1,6 @@
 tag_id,tag_column_name,comment,language_id
-optional_plural,overabundance_tag,form that does not contain a marker for plural (that is there in other forms with the same scenario),ranglong
-default,paradigm_tag,"unmarked form (most general, most frequent, etc.) or form that has no other tag",ranglong
-pragm_marked,paradigm_tag,pragmatically conditioned variation,ranglong
-dialect_var,variants_tag,form from other dialect,ranglong
+optional_plural,overabundance_tag,form does not contain a marker for plural (that is there in other forms with the same scenario),ranglong
+rang_fut,paradigm_tag,form is part of a future paradigm marked by rang,ranglong
+ti_fut,paradigm_tag,form is part of a future paradigm marked by ti,ranglong
+dialect_var,variants_tag,form is from other dialect,ranglong
+unspecified,variants_tag,form is not used in special contexts,ranglong
